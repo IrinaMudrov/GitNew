@@ -1,1 +1,6 @@
 
+weight_lbs = input('How much is your weight(lbs)?: ')
+weight_kg = int(weight_lbs) * 0.45
+print('Your weight in kg:')
+print(weight_kg)
+
